@@ -46,8 +46,8 @@ clinica-sql/
 
 | Arquivo | Conceitos |
 |---|---|
-| `01_basico.sql` | SELECT, FROM, WHERE, ORDER BY, LIMIT |
-| `02_agregacao.sql` | COUNT, SUM, AVG, GROUP BY, HAVING |
+| `01_basico.sql` | SELECT, FROM, WHERE, ORDER BY |
+| `02_agregacao.sql` | COUNT, SUM, AVG, GROUP BY |
 | `03_joins.sql` | INNER JOIN, múltiplos JOINs, alias (AS) |
 | `04_avancado.sql` | LEFT JOIN, IS NULL, Subqueries |
 
