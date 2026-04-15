@@ -1,0 +1,41 @@
+id_paciente,nome,idade,genero,cidade,plano_saude,data_consulta,especialidade,valor_consulta,retorno
+1,Ana Lima,34,F,São Paulo,Unimed,2024-01-05,Cardiologia,350.00,Não
+2,Bruno Silva,45,M,Campinas,Bradesco Saúde,2024-01-07,Ortopedia,280.00,Sim
+3,Carla Souza,29,F,São Paulo,Unimed,2024-01-08,Dermatologia,200.00,Não
+4,Diego Rocha,52,M,Santos,Amil,2024-01-10,Cardiologia,350.00,Sim
+5,Eduarda Mota,38,F,Campinas,,2024-01-12,Neurologia,420.00,Não
+6,Felipe Dias,61,M,São Paulo,Unimed,2024-01-14,Ortopedia,280.00,Sim
+7,Gabriela Nunes,,F,Ribeirão Preto,Bradesco Saúde,2024-01-15,Dermatologia,200.00,Não
+8,Henrique Alves,47,M,São Paulo,Amil,2024-01-18,Cardiologia,350.00,Sim
+9,Isabela Costa,33,,Santos,Unimed,2024-01-20,Neurologia,420.00,Não
+10,João Pedro,55,M,,Bradesco Saúde,2024-01-22,Ortopedia,280.00,Sim
+11,Karla Ferreira,41,F,Campinas,Amil,2024-01-25,Cardiologia,350.00,Não
+12,Lucas Martins,28,M,São Paulo,Unimed,2024-01-28,Dermatologia,,Não
+13,Mariana Gomes,36,F,Santos,Bradesco Saúde,2024-02-01,Neurologia,420.00,Sim
+14,Nicolas Araújo,49,M,São Paulo,Amil,2024-02-03,Cardiologia,350.00,Não
+15,Olivia Barros,31,F,Campinas,,2024-02-05,Ortopedia,280.00,Sim
+16,Paulo Henrique,67,M,Ribeirão Preto,Unimed,2024-02-08,Neurologia,420.00,Não
+17,Queila Teixeira,44,F,São Paulo,Bradesco Saúde,2024-02-10,Cardiologia,350.00,Sim
+18,Rafael Cunha,,M,Santos,Amil,2024-02-12,Dermatologia,200.00,Não
+19,Sabrina Lopes,27,F,São Paulo,Unimed,2024-02-15,Ortopedia,280.00,Sim
+20,Thiago Nascimento,58,M,Campinas,Bradesco Saúde,2024-02-18,Cardiologia,350.00,Não
+21,Uma Oliveira,35,F,,Amil,2024-02-20,Neurologia,420.00,Sim
+22,Vinicius Santos,42,M,São Paulo,Unimed,2024-02-22,Dermatologia,200.00,Não
+23,Wesley Campos,53,M,Santos,Bradesco Saúde,2024-02-25,Ortopedia,280.00,Sim
+24,Xuxa Ribeiro,39,F,Campinas,,2024-02-28,Cardiologia,350.00,Não
+25,Yasmin Freitas,26,F,São Paulo,Amil,2024-03-02,Neurologia,420.00,Sim
+26,Zeca Moura,71,M,Ribeirão Preto,Unimed,2024-03-05,Cardiologia,350.00,Não
+27,Ana Lima,34,F,São Paulo,Unimed,2024-01-05,Cardiologia,350.00,Não
+28,Bruno Silva,45,M,Campinas,Bradesco Saúde,2024-01-07,Ortopedia,280.00,Sim
+29,Carla Souza,29,F,São Paulo,Unimed,2024-01-08,Dermatologia,200.00,Não
+30,Alice Prado,48,F,São Paulo,Amil,2024-03-08,Ortopedia,,Sim
+31,Bernardo Lima,37,M,Santos,Bradesco Saúde,2024-03-10,Dermatologia,200.00,Não
+32,Camila Rocha,,F,Campinas,Unimed,2024-03-12,Neurologia,420.00,Sim
+33,Daniel Faria,60,M,Sem dados,Amil,2024-03-15,Cardiologia,350.00,Não
+34,Elisa Monteiro,32,F,São Paulo,Bradesco Saúde,2024-03-18,Ortopedia,280.00,Sim
+35,Fábio Correia,43,M,Ribeirão Preto,,2024-03-20,Dermatologia,200.00,Não
+36,Felipe Dias,61,M,São Paulo,Unimed,2024-01-14,Ortopedia,280.00,Sim
+37,Giovana Pires,30,F,Santos,Amil,2024-03-25,Neurologia,420.00,Não
+38,Hugo Medeiros,56,M,São Paulo,Unimed,2024-03-28,Cardiologia,350.00,Sim
+39,Ingrid Cavalcanti,40,F,Campinas,Bradesco Saúde,2024-04-01,Ortopedia,280.00,Não
+40,Jorge Tavares,64,M,São Paulo,,2024-04-03,Neurologia,420.00,Sim

@@ -1,0 +1,21 @@
+id_paciente,nome,idade,genero,cidade,plano_saude
+1,Ana Lima,34,F,São Paulo,Unimed
+2,Bruno Silva,45,M,Campinas,Bradesco Saúde
+3,Carla Souza,29,F,São Paulo,Unimed
+4,Diego Rocha,52,M,Santos,Amil
+5,Eduarda Mota,38,F,Campinas,
+6,Felipe Dias,61,M,São Paulo,Unimed
+7,Gabriela Nunes,,F,Ribeirão Preto,Bradesco Saúde
+8,Henrique Alves,47,M,São Paulo,Amil
+9,Isabela Costa,33,F,Santos,Unimed
+10,João Pedro,55,M,,Bradesco Saúde
+11,Karla Ferreira,41,F,Campinas,Amil
+12,Lucas Martins,28,M,São Paulo,Unimed
+13,Mariana Gomes,36,F,Santos,Bradesco Saúde
+14,Nicolas Araújo,49,M,São Paulo,Amil
+15,Olivia Barros,31,F,Campinas,
+16,Paulo Henrique,67,M,Ribeirão Preto,Unimed
+17,Queila Teixeira,44,F,São Paulo,Bradesco Saúde
+18,Rafael Cunha,,M,Santos,Amil
+19,Sabrina Lopes,27,F,São Paulo,Unimed
+20,Thiago Nascimento,58,M,Campinas,Bradesco Saúde

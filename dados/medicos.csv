@@ -1,0 +1,6 @@
+id_medico,nome,especialidade,crm,cidade
+1,Dr. Roberto Alves,Cardiologia,CRM-SP 45231,São Paulo
+2,Dra. Fernanda Lima,Dermatologia,CRM-SP 38872,São Paulo
+3,Dr. Marcos Souza,Ortopedia,CRM-SP 51190,Campinas
+4,Dra. Juliana Costa,Neurologia,CRM-SP 29045,Santos
+5,Dr. André Peixoto,Cardiologia,CRM-MG 18834,Ribeirão Preto
